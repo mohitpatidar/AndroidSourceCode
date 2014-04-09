@@ -1,0 +1,4 @@
+AndroidSourceCode
+=================
+
+OnlyForAndroid
